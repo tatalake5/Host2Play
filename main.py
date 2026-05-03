@@ -25,8 +25,8 @@ RENEW_URLS = [
     # 添加更多链接
 ]
 
-MAX_CAPTCHA = 10
-MAX_RENEW_RETRIES_PER_URL = 50
+MAX_CAPTCHA = 13
+MAX_RENEW_RETRIES_PER_URL = 80
 
 # ==============================================================================
 # 自定义异常
